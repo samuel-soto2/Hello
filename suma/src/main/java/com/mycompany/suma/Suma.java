@@ -21,6 +21,9 @@ public class Suma {
         System.out.println("Por favor ingrese el primer número: ");
         numero_1=constructor.nextInt();
         
+        System.out.println("Por favor ingrese el segundo número: ");
+        numero_2=constructor.nextInt();
+        
            
         
     }
