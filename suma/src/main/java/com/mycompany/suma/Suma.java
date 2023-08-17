@@ -18,7 +18,8 @@ public class Suma {
         int resultado;
         
         Scanner constructor=new Scanner(System.in);
-        
+        System.out.println("Por favor ingrese el primer número: ");
+        numero_1=constructor.nextInt();
         
            
         
