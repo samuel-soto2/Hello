@@ -17,6 +17,7 @@ public class Suma {
         int numero_2;
         int resultado;
         
+        Scanner constructor=new Scanner(System.in);
         
         
            
