@@ -24,6 +24,13 @@ public class Suma {
         System.out.println("Por favor ingrese el segundo número: ");
         numero_2=constructor.nextInt();
         
+        resultado=numero_1 + numero_2;
+        
+        System.out.println("El resultado de la suma es" +resultado);
+     
+        
+    }
+}
            
         
     }
